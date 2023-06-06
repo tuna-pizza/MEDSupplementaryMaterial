@@ -1,6 +1,4 @@
-# MEDSupplementaryMaterial
-
-Supplementary Material for our GD 2023 Submission.
+# Supplementary Material for our GD 2023 Submission.
 
 Folder Stimuli contains all experimental stimuli, where
 S1 - Slow Speed
