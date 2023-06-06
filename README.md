@@ -8,3 +8,5 @@ E2 - Cubic Beziér Easing
 In addition, solutions.xlsx shows the correct answers for the task
 
 Folder Experimental Data contains the raw data collected in our user study
+
+Folder Plots contains the plots of our submission in full resolution
